@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sakops</h1>
-<h3 align="center">Python Stack Developer</h3>
+<h3 align="center">Python Developer</h3>
 
 - I am currently working on **Portfolio Page**
 
